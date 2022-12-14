@@ -1,0 +1,20 @@
+{
+    "basepath" : "frames/",
+	"images" :
+	[
+		{ "frame" : 16, "file" : "CPrL014R"},
+		{ "frame" : 17, "file" : "CPrL015R"},
+		{ "frame" : 18, "file" : "CPrL016R"},
+		{ "frame" : 19, "file" : "CPrL017R"},
+		{ "frame" : 20, "file" : "CPrL018R"},
+		{ "frame" : 21, "file" : "CPrL019R"},
+		{ "frame" : 22, "file" : "CPrL020R"},
+		{ "frame" : 23, "file" : "CPrL021R"},
+		{ "frame" : 24, "file" : "CPrL022R"},
+		{ "frame" : 25, "file" : "CPrL023R"},
+		{ "frame" : 26, "file" : "CPrL024R"},
+		{ "frame" : 27, "file" : "CPrL025R"},
+		{ "frame" : 28, "file" : "CPrL026R"},
+		{ "frame" : 29, "file" : "CPrL027R"}
+	]
+}

@@ -1,0 +1,10 @@
+{
+    "basepath" : "frames/",
+	"images" :
+	[
+		{ "frame" : 0, "file" : "itptcast"},
+		{ "frame" : 1, "file" : "itptcas2"},
+		{ "frame" : 18, "file" : "itptcas3"},
+		{ "frame" : 19, "file" : "itptcas4"}
+	]
+}

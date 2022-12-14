@@ -1,0 +1,26 @@
+{
+	"author" : "itsjustme",
+	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
+	"description" : "Ten townscreens ported from LotRD mod",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"modType" : "Graphical town modifications",
+	"name" : "LotRD townscreens",
+	"version" : "1.0",
+	"conflicts" : 
+	[
+		"new-backgrounds",
+		"lenin-ghost",
+		"quartz",
+		"another-rampart",
+		"sand-tower",
+		"autumn-rampart",
+		"red-castle",
+		"ghost-necro",
+		"hota.HotA balance"
+	],
+	"changelog" :
+    {
+        "1.0"   : [ "Initial release" ]
+    }
+}

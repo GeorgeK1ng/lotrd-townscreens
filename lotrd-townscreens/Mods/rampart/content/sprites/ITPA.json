@@ -1,0 +1,8 @@
+{
+    "basepath" : "frames/",
+	"images" :
+	[
+		{ "frame" : 4, "file" : "itpramp1"},
+		{ "frame" : 5, "file" : "itpramp2"}
+	]
+}
