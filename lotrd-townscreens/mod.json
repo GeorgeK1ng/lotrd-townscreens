@@ -4,7 +4,7 @@
 	"description" : "Ten townscreens ported from LotRD mod",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"modType" : "Graphical town modifications",
+	"modType" : "Graphical",
 	"name" : "LotRD townscreens",
 	"version" : "1.0",
 	"conflicts" : 
@@ -16,8 +16,7 @@
 		"sand-tower",
 		"autumn-rampart",
 		"red-castle",
-		"ghost-necropolis",
-		"hota.HotA balance"
+		"ghost-necropolis"
 	],
 	"changelog" :
     {
