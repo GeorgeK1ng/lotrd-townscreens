@@ -1,8 +1,17 @@
 {
 	"name" : "Conflux",
-	"description" : "New Conflux townscreen ported from LotRD mod",
+	"description" : "Improved Conflux town screen ported from Legends of the Red Dragon",
 	"version" : "1.0",
 	"author" : "itsjustme",
 	"contact" : "",
-	"modType" : "Graphical"
+	"modType" : "Graphical",
+	"conflicts" : 
+	[
+		"alternate-townscreens.mirror-towns.conflux",
+		//"tides-of-war.alternative-creatures"
+	],
+	"czech" : {
+		"name" : "Soutok",
+		"description" : "Vylepšený vzhled Soutoku z Legends of the Red Dragon"
+	}
 }

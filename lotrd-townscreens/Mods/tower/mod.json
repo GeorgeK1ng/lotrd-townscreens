@@ -1,8 +1,18 @@
 {
 	"name" : "Tower",
-	"description" : "New Tower townscreen ported from LotRD mod",
+	"description" : "Improved Tower town screen ported from Legends of the Red Dragon",
 	"version" : "1.0",
 	"author" : "itsjustme",
 	"contact" : "",
-	"modType" : "Graphical"
+	"modType" : "Graphical",
+	"conflicts" : 
+	[
+		"alternate-townscreens.tower.sand-tower",
+		"alternate-townscreens.mirror-towns.tower",
+		//"tides-of-war.alternative-creatures"
+	],
+	"czech" : {
+		"name" : "Věž",
+		"description" : "Vylepšený vzhled Věže z Legends of the Red Dragon"
+	}
 }

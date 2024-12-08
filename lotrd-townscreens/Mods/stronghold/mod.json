@@ -1,8 +1,17 @@
 {
 	"name" : "Stronghold",
-	"description" : "New Stronghold townscreen ported from LotRD mod",
+	"description" : "Improved Stronghold town screen ported from Legends of the Red Dragon",
 	"version" : "1.0",
 	"author" : "itsjustme",
 	"contact" : "",
-	"modType" : "Graphical"
+	"modType" : "Graphical",
+	"conflicts" : 
+	[
+		"alternate-townscreens.mirror-towns.stronghold",
+		//"tides-of-war.alternative-creatures"
+	],
+	"czech" : {
+		"name" : "Tvrz",
+		"description" : "Vylepšený vzhled Tvrze z Legends of the Red Dragon"
+	}
 }

@@ -1,8 +1,19 @@
 {
 	"name" : "Castle",
-	"description" : "New Castle townscreen ported from LotRD mod",
+	"description" : "Improved Castle town screen ported from Legends of the Red Dragon",
 	"version" : "1.0",
 	"author" : "itsjustme",
 	"contact" : "",
-	"modType" : "Graphical"
+	"modType" : "Graphical",
+	"conflicts" : 
+	[
+		"alternate-townscreens.castle.red-castle",
+		"alternate-townscreens.castle.snow-castle",
+		"alternate-townscreens.mirror-towns.castle",
+		//"tides-of-war.alternative-creatures"
+	],
+	"czech" : {
+		"name" : "Hrad",
+		"description" : "Vylepšený vzhled Hradu z Legends of the Red Dragon"
+	}
 }

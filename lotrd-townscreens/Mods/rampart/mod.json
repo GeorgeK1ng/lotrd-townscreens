@@ -1,8 +1,19 @@
 {
 	"name" : "Rampart",
-	"description" : "New Rampart townscreen ported from LotRD mod",
+	"description" : "Improved Rampart town screen ported from Legends of the Red Dragon",
 	"version" : "1.0",
 	"author" : "itsjustme",
 	"contact" : "",
-	"modType" : "Graphical"
+	"modType" : "Graphical",
+	"conflicts" : 
+	[
+		"alternate-townscreens.rampart.another-rampart",
+		"alternate-townscreens.rampart.autumn-rampart",
+		"alternate-townscreens.mirror-towns.rampart",
+		//"tides-of-war.alternative-creatures"
+	],
+	"czech" : {
+		"name" : "Bašta",
+		"description" : "Vylepšený vzhled Bašty z Legends of the Red Dragon"
+	}
 }
