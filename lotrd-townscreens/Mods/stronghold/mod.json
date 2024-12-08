@@ -10,6 +10,10 @@
 		"alternate-townscreens.mirror-towns.stronghold",
 		//"tides-of-war.alternative-creatures"
 	],
+	"softDepends" : [
+		"wake-of-gods.heroes3datapatch",
+		"hota.heroes3datapatch"
+	],
 	"czech" : {
 		"name" : "Tvrz",
 		"description" : "Vylepšený vzhled Tvrze z Legends of the Red Dragon"

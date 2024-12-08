@@ -12,6 +12,9 @@
 		"alternate-townscreens.mirror-towns.castle",
 		//"tides-of-war.alternative-creatures"
 	],
+	"softDepends" : [
+		"hota.heroes3datapatch"
+	],
 	"czech" : {
 		"name" : "Hrad",
 		"description" : "Vylepšený vzhled Hradu z Legends of the Red Dragon"

@@ -10,6 +10,9 @@
 		"alternate-townscreens.mirror-towns.fortress",
 		//"tides-of-war.alternative-creatures"
 	],
+	"softDepends" : [
+		"hota.heroes3datapatch"
+	],
 	"czech" : {
 		"name" : "Pevnost",
 		"description" : "Vylepšený vzhled Pevnosti z Legends of the Red Dragon"
