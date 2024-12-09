@@ -1,8 +1,18 @@
 {
 	"name" : "Necropolis",
-	"description" : "New Necropolis townscreen ported from LotRD mod",
+	"description" : "Improved Necropolis town screen ported from Legends of the Red Dragon",
 	"version" : "1.0",
 	"author" : "itsjustme",
 	"contact" : "",
-	"modType" : "Graphical"
+	"modType" : "Graphical",
+	"conflicts" : 
+	[
+		"alternate-townscreens.ghost-necropolis",
+		"alternate-townscreens.mirror-towns.necropolis",
+		//"tides-of-war.alternative-creatures"
+	],
+	"czech" : {
+		"name" : "Nekropolis",
+		"description" : "Vylepšený vzhled Nekropolis z Legends of the Red Dragon"
+	}
 }
