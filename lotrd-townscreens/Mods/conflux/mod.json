@@ -8,7 +8,7 @@
 	"conflicts" : 
 	[
 		"alternate-townscreens.mirror-towns.conflux",
-		//"tides-of-war.alternative-creatures"
+		"tides-of-war.alternative-creatures"
 	],
 	"softDepends" : [
 		"wake-of-gods.heroes3datapatch",

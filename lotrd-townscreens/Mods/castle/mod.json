@@ -10,7 +10,7 @@
 		"alternate-townscreens.castle.red-castle",
 		"alternate-townscreens.castle.snow-castle",
 		"alternate-townscreens.mirror-towns.castle",
-		//"tides-of-war.alternative-creatures"
+		"tides-of-war.alternative-creatures"
 	],
 	"softDepends" : [
 		"hota.heroes3datapatch"
