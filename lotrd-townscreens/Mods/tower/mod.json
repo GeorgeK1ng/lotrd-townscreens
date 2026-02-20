@@ -5,10 +5,9 @@
 	"author" : "itsjustme",
 	"contact" : "",
 	"modType" : "Graphical",
-	"conflicts" : 
-	[
+	"conflicts" : [
 		"alternate-townscreens.tower.sand-tower",
-		"alternate-townscreens.mirror-towns.tower",
+		"alternate-townscreens.mirror-towns.tower"
 		//"tides-of-war.alternative-creatures"
 	],
 	"softDepends" : [

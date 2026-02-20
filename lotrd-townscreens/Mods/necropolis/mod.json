@@ -5,10 +5,9 @@
 	"author" : "itsjustme",
 	"contact" : "",
 	"modType" : "Graphical",
-	"conflicts" : 
-	[
+	"conflicts" : [
 		"alternate-townscreens.ghost-necropolis",
-		"alternate-townscreens.mirror-towns.necropolis",
+		"alternate-townscreens.mirror-towns.necropolis"
 		//"tides-of-war.alternative-creatures"
 	],
 	"czech" : {

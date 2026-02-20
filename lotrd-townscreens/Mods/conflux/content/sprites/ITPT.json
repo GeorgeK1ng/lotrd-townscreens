@@ -1,10 +1,21 @@
 {
-    "basepath" : "frames/",
-	"images" :
-	[
-		{ "frame" : 16, "file" : "itptelem"},
-		{ "frame" : 17, "file" : "itptele2"},
-		{ "frame" : 34, "file" : "itptele3"},
-		{ "frame" : 35, "file" : "itptele4"}
+	"basepath" : "frames/",
+	"images" : [
+		{
+			"frame" : 16,
+			"file" : "itptelem"
+		},
+		{
+			"frame" : 17,
+			"file" : "itptele2"
+		},
+		{
+			"frame" : 34,
+			"file" : "itptele3"
+		},
+		{
+			"frame" : 35,
+			"file" : "itptele4"
+		}
 	]
 }

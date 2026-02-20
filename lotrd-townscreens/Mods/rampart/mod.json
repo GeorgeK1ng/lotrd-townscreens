@@ -5,8 +5,7 @@
 	"author" : "itsjustme",
 	"contact" : "",
 	"modType" : "Graphical",
-	"conflicts" : 
-	[
+	"conflicts" : [
 		"alternate-townscreens.rampart.another-rampart",
 		"alternate-townscreens.rampart.autumn-rampart",
 		"alternate-townscreens.mirror-towns.rampart",

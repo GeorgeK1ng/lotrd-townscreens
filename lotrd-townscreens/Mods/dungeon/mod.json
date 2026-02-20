@@ -5,9 +5,8 @@
 	"author" : "itsjustme",
 	"contact" : "",
 	"modType" : "Graphical",
-	"conflicts" : 
-	[
-		"alternate-townscreens.mirror-towns.dungeon",
+	"conflicts" : [
+		"alternate-townscreens.mirror-towns.dungeon"
 		//"tides-of-war.alternative-creatures"
 	],
 	"czech" : {

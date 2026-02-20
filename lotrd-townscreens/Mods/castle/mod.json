@@ -5,8 +5,7 @@
 	"author" : "itsjustme",
 	"contact" : "",
 	"modType" : "Graphical",
-	"conflicts" : 
-	[
+	"conflicts" : [
 		"alternate-townscreens.castle.red-castle",
 		"alternate-townscreens.castle.snow-castle",
 		"alternate-townscreens.mirror-towns.castle",

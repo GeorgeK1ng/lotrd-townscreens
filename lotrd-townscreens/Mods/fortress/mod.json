@@ -5,9 +5,8 @@
 	"author" : "itsjustme",
 	"contact" : "",
 	"modType" : "Graphical",
-	"conflicts" : 
-	[
-		"alternate-townscreens.mirror-towns.fortress",
+	"conflicts" : [
+		"alternate-townscreens.mirror-towns.fortress"
 		//"tides-of-war.alternative-creatures"
 	],
 	"softDepends" : [

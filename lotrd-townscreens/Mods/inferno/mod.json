@@ -5,8 +5,7 @@
 	"author" : "itsjustme",
 	"contact" : "",
 	"modType" : "Graphical",
-	"conflicts" : 
-	[
+	"conflicts" : [
 		"alternate-townscreens.mirror-towns.inferno",
 		"tides-of-war.alternative-creatures"
 	],
